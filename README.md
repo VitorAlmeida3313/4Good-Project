@@ -39,5 +39,5 @@ O **4Good** é uma plataforma integrada para gestão de indicadores ESG (Environ
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/4good.git](https://github.com/seu-usuario/4good.git)
+   git clone https://github.com/VitorAlmeida3313/4Good-Project.git
    cd 4good
